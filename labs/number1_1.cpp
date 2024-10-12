@@ -13,8 +13,7 @@ int main()
     if (n<3) {
         std::cout<<"Ошибка"<<std::endl;
     } else {
-        p = 2*
-        n*r*tan(M_PI/n);
+        p = 2*n*r*tan(M_PI/n);
         std::cout<<"Периметр равен "<<p<<std::endl;
     }return 0;
 }
